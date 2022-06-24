@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T04:15:55.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3ZfFbcB-wT-7nKQbVqV1" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T04:25:00.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MIj1-scUjjfzNjnplZsI" version="20.0.2" type="github">
   <diagram id="XMccEgg_2I5AYmfuxxWF" name="Page-1">
-    <mxGraphModel dx="2115" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1513" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,14 +73,6 @@
         <mxCell id="hKDp-RwPDXlJFt4NyMLu-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;SI&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" parent="hKDp-RwPDXlJFt4NyMLu-4" vertex="1" connectable="0">
           <mxGeometry x="-0.1667" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hKDp-RwPDXlJFt4NyMLu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="hKDp-RwPDXlJFt4NyMLu-3" target="hKDp-RwPDXlJFt4NyMLu-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hKDp-RwPDXlJFt4NyMLu-11" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" parent="hKDp-RwPDXlJFt4NyMLu-10" vertex="1" connectable="0">
-          <mxGeometry x="-0.3013" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hKDp-RwPDXlJFt4NyMLu-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;¿Esta encendido el relay ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
