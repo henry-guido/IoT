@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T03:09:06.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hFl24gn8uT5NdHzKSaP0" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T03:33:04.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NDaoZXRCMpOanjXj9HfN" version="20.0.2" type="github">
   <diagram id="XMccEgg_2I5AYmfuxxWF" name="Page-1">
     <mxGraphModel dx="2115" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,8 +135,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="475" />
-              <mxPoint x="100" y="300" />
-              <mxPoint x="564" y="300" />
+              <mxPoint x="100" y="340" />
+              <mxPoint x="564" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -151,6 +151,11 @@
               <mxPoint x="-15" y="800" />
               <mxPoint x="582" y="800" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBwcr5gPt2FcrvwLxwh8-30" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="IBwcr5gPt2FcrvwLxwh8-27">
+          <mxGeometry x="-0.9558" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hKDp-RwPDXlJFt4NyMLu-14" value="¿El caudal de agua &lt;br&gt;es&amp;nbsp;mayor a 5 litros por&lt;br&gt;&amp;nbsp;minutos?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
@@ -184,18 +189,18 @@
         <mxCell id="hKDp-RwPDXlJFt4NyMLu-43" value="SI" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=17;" parent="hKDp-RwPDXlJFt4NyMLu-42" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBwcr5gPt2FcrvwLxwh8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SRsSawWAYWnFvmfQ8JKs-14" target="IBwcr5gPt2FcrvwLxwh8-19">
+        <mxCell id="IBwcr5gPt2FcrvwLxwh8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SRsSawWAYWnFvmfQ8JKs-14" target="IBwcr5gPt2FcrvwLxwh8-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="214" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="172" y="190" />
-              <mxPoint x="-15" y="190" />
+              <mxPoint x="214" y="220" />
+              <mxPoint x="-15" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IBwcr5gPt2FcrvwLxwh8-13" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="IBwcr5gPt2FcrvwLxwh8-12">
           <mxGeometry x="-0.2784" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SRsSawWAYWnFvmfQ8JKs-14" value="¿Hay agua en la tubería &lt;br&gt;que viene de la calle?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
@@ -209,7 +214,7 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBwcr5gPt2FcrvwLxwh8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IBwcr5gPt2FcrvwLxwh8-19" target="hKDp-RwPDXlJFt4NyMLu-37">
+        <mxCell id="IBwcr5gPt2FcrvwLxwh8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IBwcr5gPt2FcrvwLxwh8-19" target="hKDp-RwPDXlJFt4NyMLu-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBwcr5gPt2FcrvwLxwh8-29" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="IBwcr5gPt2FcrvwLxwh8-28">
